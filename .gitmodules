@@ -1,0 +1,3 @@
+[submodule "taglist"]
+	path = taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
